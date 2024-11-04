@@ -13,4 +13,14 @@ form {
   margin: 20px auto;
 }
 
+#submit {
+  background-color: blue;
+  color: white;
+}
+
+#reset {
+  background-color: green;
+  color: white;
+}
+
 /*# sourceMappingURL=styles.css.map */
